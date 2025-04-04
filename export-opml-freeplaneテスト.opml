@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><opml version="1.0">
+    <head>
+        <expansionState>/opml[1]/body[1]/outline[1]</expansionState>
+        <vertScrollState>1</vertScrollState>
+    </head>
+    <body>
+        <outline text="freeplaneテスト">
+            <outline text="あああ">
+                <outline text="まごまご"/>
+                <outline text="bっっｂ"/>
+            </outline>
+            <outline text="いいい">
+                <outline text="eえええ"/>
+            </outline>
+            <outline text="ううう">
+                <outline text="っっっｄ"/>
+                <outline text="bっｂ"/>
+            </outline>
+            <outline text="えええ"/>
+            <outline text="あああ"/>
+            <outline text="aあああ"/>
+            <outline text="aああああああ">
+                <outline text="aあああ">
+                    <outline text="bっっｂ">
+                        <outline text="dっっっｃ">
+                            <outline text="dっっｄ"/>
+                        </outline>
+                        <outline text="asdfasdf"/>
+                        <outline text="aaaa">
+                            <outline text="zxcvzxcv"/>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
